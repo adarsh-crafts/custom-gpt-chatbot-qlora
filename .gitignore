@@ -1,5 +1,6 @@
 # peronal chats used for training
 data/private/
+output/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
