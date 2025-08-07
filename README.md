@@ -1,2 +1,10 @@
-# custom-gpt-chatbot-qlora
-This project demonstrates how to implement a GPT-like chatbot from the ground up, featuring a custom tokenizer, decoder-only transformer training, and efficient fine-tuning with QLoRA—all built in PyTorch. Ideal for applications in personalized assistants, domain-specific chatbots, and fine-tuned LLMs.
+# Building a Personalized Conversational AI to Mimic a Unique Chat Style
+This repository documents the end-to-end process of building a personalized GPT-like chatbot, trained from scratch on custom chat data using PyTorch.
+
+The primary goal is to learn and implement the full pipeline of creating a language model. This includes 
+* data extraction and cleaning
+* building a BPE tokenizer
+* building and training a decoder-only transformer
+* and using parameter-efficient fine-tuning (QLoRA) to teach the model a specific communication style.
+
+This project is currently in development, with new components and notebooks being added regularly.
